@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ysystems/static/css/main.3586a576.css",
-    "main.js": "/ysystems/static/js/main.a0b1a981.js",
+    "main.css": "/ysystems/static/css/main.5a2aadbb.css",
+    "main.js": "/ysystems/static/js/main.fe9aeefe.js",
     "static/media/test.mp4": "/ysystems/static/media/test.73807bc804580c440339.mp4",
     "static/media/main.png": "/ysystems/static/media/main.2b06b382ed530ccb03a4.png",
     "static/media/customerBg.png": "/ysystems/static/media/customerBg.deab0c92789747f79f77.png",
@@ -82,11 +82,11 @@
     "static/media/address2.svg": "/ysystems/static/media/address2.2ba0ab4f345662a65c1be4758b34deef.svg",
     "static/media/plus.svg": "/ysystems/static/media/plus.158d6aae8d099311a897.svg",
     "static/media/minus.svg": "/ysystems/static/media/minus.1df7f117437ef61e6e73.svg",
-    "main.3586a576.css.map": "/ysystems/static/css/main.3586a576.css.map",
-    "main.a0b1a981.js.map": "/ysystems/static/js/main.a0b1a981.js.map"
+    "main.5a2aadbb.css.map": "/ysystems/static/css/main.5a2aadbb.css.map",
+    "main.fe9aeefe.js.map": "/ysystems/static/js/main.fe9aeefe.js.map"
   },
   "entrypoints": [
-    "static/css/main.3586a576.css",
-    "static/js/main.a0b1a981.js"
+    "static/css/main.5a2aadbb.css",
+    "static/js/main.fe9aeefe.js"
   ]
 }
